@@ -1,0 +1,12 @@
+configuration {
+     modi: "drun";
+    show-icons: true;
+    show-modes: false;
+    display-drun: "";
+    drun-display-format: "{name}";
+    sidebar-mode: false;
+}
+
+@theme "~/.config/rofi/catppuccin/themes/catppuccin-mocha.rasi"
+@import "~/.config/rofi/overrides.rasi"
+

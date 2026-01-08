@@ -1,0 +1,54 @@
+/* ROOT OVERRIDE — THIS IS THE KEY */
+* {
+    background-color: #1e1e2e;
+    text-color: #cdd6f4;
+}
+
+/* Window container */
+window {
+    width: 32%;
+    height: 50%;
+    border-radius: 14px;
+    background-color: #1e1e2e;
+}
+
+/* Main layout */
+mainbox {
+    padding: 3px;
+    background-color: transparent;
+}
+
+/* Input bar */
+inputbar {
+    padding: 3px;
+    border-radius: 5px;
+    background-color: #313244;
+}
+
+prompt {
+    text-color: #cba6f7;
+}
+
+/* List */
+listview {
+    spacing: 5px;
+    scrollbar: false;
+    background-color: transparent;
+}
+
+/* Elements */
+element {
+    padding: 3px;
+    border-radius: 5px;
+    background-color: transparent;
+}
+
+element-text {
+    text-color: #cdd6f4;
+}
+
+/* Selection */
+element selected {
+    background-color: #45475a;
+}
+
